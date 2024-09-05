@@ -202,3 +202,6 @@ for_window [class="^.*"] border pixel 3
 # I hate this
 gaps inner 8
 gaps outer 1
+
+# Border colors        border  backgr  text    indicator  child_border
+client.focused         #da78cc #285577 #ffffff #2e93f4    #da78cc
