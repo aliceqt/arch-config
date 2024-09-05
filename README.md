@@ -4,5 +4,7 @@
 - WM: i3-gaps
 - Shell: Zsh (Oh-My-Zsh)
 - Shell Theme: https://github.com/romkatv/powerlevel10k
+- Shell Addons: https://github.com/marlonrichert/zsh-autocomplete
+  - The screenshot uses https://github.com/zsh-users/zsh-autosuggestions, but this has not been updated in over a year
 - Background Manager: feh
 - Terminal: kitty
