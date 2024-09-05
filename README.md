@@ -1,5 +1,5 @@
 # What up reddittttttttttt
-### The result of picking up my old config and tinkering with it once more. Just Look at this beautiful arch config. Never beven done befofre
+### The result of me picking up my old config and tinkering with it once more. Just Look at this beautiful arch config. Never beven done befofre
 <img src="https://github.com/heyitsalicia/i3-Config/blob/main/preview/AAHH.png" width="600"><br>
 - WM: i3-gaps
 - Shell: Zsh (Oh-My-Zsh)
