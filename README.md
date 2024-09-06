@@ -13,7 +13,7 @@
 - Bar Theme: https://github.com/ashish-kus/waybar-minimal
 - Wofi Theme: https://draculatheme.com/wofi
 # i3-gaps
-<img src="https://github.com/heyitsalicia/i3-Config/blob/main/preview/AAHH.png" width="600"><br>
+<img src="https://github.com/aliceqt/arch-config/blob/main/hyprland/Why%20arent%20you%20the%20smartest%20fellow.png?raw=true" width="600"><br>
 - WM: i3-gaps
 - Shell: Zsh (Oh-My-Zsh)
 - Shell Theme: https://github.com/romkatv/powerlevel10k
