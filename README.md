@@ -7,6 +7,7 @@
 - Shell Theme: https://github.com/romkatv/powerlevel10k
 - Shell Addons: https://github.com/marlonrichert/zsh-autocomplete
 - Background Manager: hyprpaper
+- Terminal: kitty
 - Screenshot Tool: https://github.com/Gustash/Hyprshot
 - Bar: Waybar
 - Bar Theme: https://github.com/ashish-kus/waybar-minimal
