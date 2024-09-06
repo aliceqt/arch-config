@@ -2,7 +2,7 @@
 ### The result of me picking up my old config and tinkering with it once more. Just Look at this beautiful arch config. Never beven done befofre
 
 # hyprland
-<img src="https://github.com/user-attachments/assets/29d005d3-871e-47c3-87ea-b7837d308427" width="600"><br>
+<img src="https://github.com/aliceqt/arch-config/blob/main/preview/Weeelp.png?raw=true" width="600"><br>
 - WM: hyprland
 - Shell: Zsh (Oh-My-Zsh)
 - Shell Theme: https://github.com/romkatv/powerlevel10k
