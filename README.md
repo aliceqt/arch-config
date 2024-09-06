@@ -11,6 +11,7 @@
 - Screenshot Tool: https://github.com/Gustash/Hyprshot
 - Bar: Waybar
 - Bar Theme: https://github.com/ashish-kus/waybar-minimal
+- Wofi Theme: https://draculatheme.com/wofi
 # i3-gaps
 <img src="https://github.com/heyitsalicia/i3-Config/blob/main/preview/AAHH.png" width="600"><br>
 - WM: i3-gaps
